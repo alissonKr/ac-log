@@ -1,0 +1,4 @@
+node_modules/
+optimize.js
+package.json
+package-lock.json
